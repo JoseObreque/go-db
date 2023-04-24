@@ -5,6 +5,12 @@ Este repositorio contiene mis soluciones a los ejercicios propuestos en este mó
 ## Contenidos
 
 ### Día 1
+
 * Introducción a bases de datos relacionales.
 * Relaciones entre tablas.
 * Consultas SQL.
+
+### Día 2
+
+* Consultas SQL avanzadas.
+* Optimización de bases de datos.
